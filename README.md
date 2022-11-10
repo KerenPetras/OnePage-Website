@@ -1,6 +1,6 @@
 <h2>One Page Responsive Website </h2>
 
-<h4> This project was for HTML5 & CSS3 practice, </br>
+<h4> This project was an HTML5 & CSS3 practice, </br>
   as a way to celebrate my best friend's graduation in bachelor degree I made him a template for a one page responsive website </br>
 </br>
   
