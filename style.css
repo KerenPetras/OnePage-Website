@@ -224,7 +224,7 @@ p {
 
 /*Cover Section*/
 #Cover {
-  background-image: url(/img/hero-bg.jpg);
+  background-image: url("./img/hero-bg.jpg");
   background-size: cover;
   background-position: top center;
   position: relative;
